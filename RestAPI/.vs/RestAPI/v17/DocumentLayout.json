@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\interfaceauditotiirus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\interfaceauditotiirus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\interfaceexaminatorsrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\interfaceexaminatorsrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\interfaceexamsrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\interfaceexamsrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\interfacegraphicsjobrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\interfacegraphicsjobrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\interfacegroupsrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\interfacegroupsrus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\interfaceraspisaneerus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\interfaceraspisaneerus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\pp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\pp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A0E602-CF3C-452D-9A0F-54B17C08822B}|..\\DateAccess\\DateAccess.csproj|c:\\users\\otec\\desktop\\mysor\\dateaccess\\dateaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A0E602-CF3C-452D-9A0F-54B17C08822B}|..\\DateAccess\\DateAccess.csproj|c:\\users\\otec\\desktop\\mysor\\dateaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|c:\\users\\otec\\desktop\\mysor\\restapi\\models\\examinerbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CEE514-5BEF-40E6-B4E6-993C5F7AA88D}|RestAPI.csproj|solutionrelative:models\\examinerbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:32:58.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceGroupsRus.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceGroupsRus.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterfaceGroupsRus.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceGroupsRus.cs",
+              "RelativeToolTip": "Controllers\\InterfaceGroupsRus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:36:22.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceRaspisaneeRus.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceRaspisaneeRus.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterfaceRaspisaneeRus.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceRaspisaneeRus.cs",
+              "RelativeToolTip": "Controllers\\InterfaceRaspisaneeRus.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:31:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfaceGraphicsJobRus.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceGraphicsJobRus.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterfaceGraphicsJobRus.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceGraphicsJobRus.cs",
+              "RelativeToolTip": "Controllers\\InterfaceGraphicsJobRus.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:46:28.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceExamsRus.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceExamsRus.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterfaceExamsRus.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceExamsRus.cs",
+              "RelativeToolTip": "Controllers\\InterfaceExamsRus.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:51:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceExaminatorsRus.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceExaminatorsRus.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterfaceExaminatorsRus.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceExaminatorsRus.cs",
+              "RelativeToolTip": "Controllers\\InterfaceExaminatorsRus.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:18:44.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceAuditotiiRus.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceAuditotiiRus.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterfaceAuditotiiRus.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\InterfaceAuditotiiRus.cs",
+              "RelativeToolTip": "Controllers\\InterfaceAuditotiiRus.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:20:43.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PP1.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\PP1.cs",
+              "RelativeDocumentMoniker": "Controllers\\PP1.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\PP1.cs",
+              "RelativeToolTip": "Controllers\\PP1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:28:47.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:01:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\RestAPI.csproj",
+              "RelativeDocumentMoniker": "RestAPI.csproj",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\RestAPI.csproj",
+              "RelativeToolTip": "RestAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T07:38:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExaminerBdContext.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Models\\ExaminerBdContext.cs",
+              "RelativeDocumentMoniker": "Models\\ExaminerBdContext.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\Models\\ExaminerBdContext.cs",
+              "RelativeToolTip": "Models\\ExaminerBdContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:51:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T09:06:22.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\RestAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:34:11.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\DateAccess\\DateAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DateAccess\\DateAccess.csproj",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\DateAccess\\DateAccess.csproj",
+              "RelativeToolTip": "..\\DateAccess\\DateAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T07:37:35.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Otec\\Desktop\\Mysor\\DateAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DateAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Otec\\Desktop\\Mysor\\DateAccess\\Class1.cs",
+              "RelativeToolTip": "..\\DateAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:19:52.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
